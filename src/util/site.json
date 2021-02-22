@@ -2,8 +2,8 @@
   "meta": {
     "title": "Ramón Gómez",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Website created with  by Ramón Gómez",
+    "siteUrl": "https://gomezramon.netlify.app/",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@gomezramon_"
