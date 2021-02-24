@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "Website created with  by Ramón Gómez",
     "siteUrl": "https://gomezramon.netlify.app/",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "image": "/assets/icon.png",
+    "iconimage": "/assets/icon.png",
     "twitterUsername": "@gomezramon_"
   },
   "ga": "UA-XXXXXXXXX-X"
