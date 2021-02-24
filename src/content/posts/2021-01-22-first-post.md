@@ -2,7 +2,7 @@
 template: blog-post
 title: Hello World!
 slug: /hello-world
-date: 2021-02-22T00:00:00.000Z
+date: 2021-01-22T00:00:00.000Z
 description: Este es mi primer post de mi blog personal
 featuredImage: /assets/blog/hello-world.jpg
 ---
