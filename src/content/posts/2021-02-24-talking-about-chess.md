@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: Supongamos que hablo de ajedrez
-slug: /hablando-de-ajedrez
+title: Hablemos de Ajedrez
+slug: /hablemos-de-ajedrez
 date: 2021-02-24T00:00:00.000Z
 description: En este artículo te enseño el camino para iniciarte en el ajedrez
 featuredImage: /assets/blog/chess.jpg
@@ -14,7 +14,7 @@ Hace tiempo que practico ajedrez, antes de 'The Queen's Gambit', no mucho tiempo
 
 ## Entre derrota y derrota
 
-Por donde empezar, o mejor dicho, por donde empecé. Como he comentado antes, comencé a practicar ajedrez un tiempo antes de ver a Anya Taylor-Joy moviendo piezas en la aclamada serie de Netflix. Hacía mucho tiempo que quería aprender a jugar y parece que no saber por donde hacerlo me estaba frenando bastante. Por lo que directamente, sin pensarlo y conociendo prácticamente las reglas básicas me descargue una aplicación gratuita para el móvil, cree un usuario y comencé a perder partidas sin desesperarme. Ya sabía que esto iba a pasar por lo que no me preocupaba, mi única finalidad era aprender para ser competente. He de decir que en paralelo estaba leyendo algunos libros sobre ajedrez, si no recuerdo mal el primero que leí fue 'Chess for Dummies'. Es cierto que los libros aportan muchísimo, pero a mí me ha resultado mucho más efectiva la práctica que la lectura en este campo.
+Por donde empezar, o mejor dicho, por donde empecé. Como he comentado antes, comencé a practicar ajedrez un tiempo antes de ver a Anya Taylor-Joy moviendo piezas en la aclamada serie de Netflix. Hacía mucho tiempo que quería aprender a jugar y parece que no saber por donde hacerlo me estaba frenando bastante. Por lo que directamente, sin pensarlo y conociendo prácticamente las reglas básicas me descargue una aplicación gratuita para el móvil, creé un usuario y comencé a perder partidas sin desesperarme. Ya sabía que esto iba a pasar por lo que no me preocupaba, mi única finalidad era aprender para ser competente. He de decir que en paralelo estaba leyendo algunos libros sobre ajedrez, si no recuerdo mal el primero que leí fue 'Chess for Dummies'. Es cierto que los libros aportan muchísimo, pero a mí me ha resultado mucho más efectiva la práctica que la lectura en este campo.
 
 Como dato, te diré que la aplicación es [Chess.com](https://chess.com), aunque recientemente he conocido otra del mismo estilo y de la que me han hablado muy bien, [Chess24](https://chess24.com/).
 
