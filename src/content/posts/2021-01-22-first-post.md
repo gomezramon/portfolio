@@ -6,7 +6,7 @@ date: 2021-01-22T00:00:00.000Z
 description: Este es mi primer post de mi blog personal
 featuredImage: /assets/blog/hello-world.jpg
 ---
-Hola y bienvenida, este es el **primer post en mi blog personal** y estoy realmente contento. Ahora mismo no es más que un proyecto, pero tengo ganas de comenzar a escribir y ver hasta donde puedo llegar. 
+Hola, bienvenida o bienvenido a mi blog personal. Este es el **primer post en mi blog personal** y estoy realmente contento. Ahora mismo no es más que un proyecto, pero tengo ganas de ver hasta donde puedo llegar. 
 
 Seguramente este blog será un sitio donde postearé curiosidades, recursos, opiniones, fricadas..., en general, un blog donde me expresaré libremente.
 
