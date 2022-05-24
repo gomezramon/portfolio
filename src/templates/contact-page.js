@@ -36,10 +36,7 @@ const Contact = ({data}) => {
       />
       <div className="wrapper">
         <h1>{frontmatter.title}</h1>
-        <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
-        
-      </div>
-
+        <div className="description" dangerouslySetInnerHTML={{ __html: html }} /></div>
     </Layout>
   )
 }
