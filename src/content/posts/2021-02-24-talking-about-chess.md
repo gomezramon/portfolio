@@ -6,17 +6,11 @@ date: 2021-02-24T00:00:00.000Z
 description: En este artículo te enseño el camino para iniciarte en el ajedrez
 featuredImage: /assets/blog/chess.jpg
 ---
-Bienvenida de nuevo a mi blog, en esta ocasión me gustaría **hablar sobre ajedrez.** Justo ahora que ha pasado un poco el boom de 'The Queen's Gambit', me gustaría hablar un poco acerca de este maravilloso juego, deporte, o como cada una quiera categorizarlo.
+El ajedrez ha pasado de ser un deporte que a priori pasaba un poco desapercibido, a convertirse en uno de los deportes más vistos en streaming y a ocupar un gran espacio en prensa y radio. Ya sea por el empujón que recibió con la serie 'Gambigo de dama', o por la visibilidad de streamers de renombre, el ajedrez vive un boom que yo no podía imaginar.
 
-Hace tiempo que practico ajedrez, antes de 'The Queen's Gambit', no mucho tiempo atrás, pero antes. Y aún estando lejos de convertirme en un Grandmaster, tengo que decir que no se me da nada mal.
+Hace tiempo que practico ajedrez, antes de 'The Queen's Gambit', no mucho tiempo atrás, pero antes. Y aún estando lejos de convertirme en un gran maestro, tengo que decir que no se me da nada mal. Gracias a la tecnología (una vez más) disponemos de plataformas con las que aprender a jugar al ajedrez a golpe de click. Y así hice yo, simplemente me registré en [Chess.com](https://www.chess.com/home) y a jugar. Sin prácticamente conocimiento alguno, simplemente conociendo las reglas básicas, comencé a jugar y a perder partidas sin desesperarme, con el único objetivo de aprender. Simultáneamente leía libros con jugadas, aperturas, y demás. Recuerdo que el primer libro que leí fue 'Ajedrez para Dummies', y diría que junto a la práctica es lo mejor que hice, leer.
 
 ![](/assets/blog/queens-gambit.jpg "Anya Taylor-Joy in The Queen's Gambit")
-
-## Entre derrota y derrota
-
-Por donde empezar, o mejor dicho, por donde empecé. Como he comentado antes, comencé a practicar ajedrez un tiempo antes de ver a Anya Taylor-Joy moviendo piezas en la aclamada serie de Netflix. Hacía mucho tiempo que quería aprender a jugar y parece que no saber por donde hacerlo me estaba frenando bastante. Por lo que directamente, sin pensarlo y conociendo prácticamente las reglas básicas me descargue una aplicación gratuita para el móvil, creé un usuario y comencé a perder partidas sin desesperarme. Ya sabía que esto iba a pasar por lo que no me preocupaba, mi única finalidad era aprender para ser competente. He de decir que en paralelo estaba leyendo algunos libros sobre ajedrez, si no recuerdo mal el primero que leí fue 'Chess for Dummies'. Es cierto que los libros aportan muchísimo, pero a mí me ha resultado mucho más efectiva la práctica que la lectura en este campo.
-
-Como dato, te diré que la aplicación es [Chess.com](https://chess.com), aunque recientemente he conocido otra del mismo estilo y de la que me han hablado muy bien, [Chess24](https://chess24.com/).
 
 También comencé a ver vídeos en YouTube, y reciéntemente he decubierto un canal que recomiendo para iniciarse en este Mundo, [Ajedrez desde cero](https://www.youtube.com/channel/UC0lyawxtqlg9WvZs65I_tjQ). 
 
