@@ -3,33 +3,21 @@ template: blog-post
 title: Hello World!
 slug: /hello-world
 date: 2021-01-22T00:00:00.000Z
-description: Este es mi primer post de mi blog personal
+description: Primer post y toma de contacto en mi blog personal donde cuento quién soy, lo que hago y lo que vas a encontrar aquí.
 featuredImage: /assets/blog/hello-world.jpg
 ---
-Hola, bienvenida o bienvenido a mi blog personal. Este es el **primer post en mi blog personal** y estoy realmente contento. Ahora mismo no es más que un proyecto, pero tengo ganas de ver hasta donde puedo llegar. 
+Hola, bienvenida o bienvenido a mi blog personal. Este es el **primer post** y estoy realmente contento. Ahora mismo no es más que un proyecto, pero tengo ganas de ver hasta donde puedo llegar. 
 
-Seguramente este blog será un sitio donde postearé curiosidades, recursos, opiniones, fricadas..., en general, un blog donde me expresaré libremente.
+Siempre me ha apasionado la escritura, y crear un blog personal me parece una idea brillante, ya que puedo escribir y expresarme libremente, sin tiempos y sin censura. 
+
+Pero no solo me apasiona la escritura, la tecnología otra de mis pasiones, y puedo decir bastante orgulloso que soy un nerd de los pies a la cabeza. Por eso he decidido crear yo mismo mi página personal con [Gatsby](https://www.gatsbyjs.com/) y desplegarlo en [Vercel](https://vercel.com/). Pero tranquilo, crear un sitio así es más sencillo de lo que parece. Lo único necesario son unos mínimos conocimientos informáticos, algo de habilidad y paciencia. Además, hoy en día, tenemos todo tipo de información a golpe de click.
 
 ![Nerd](/assets/blog/nerd_01.jpg "Nerd for live")
 
-## No parece tan brillante
+No me gustaría entretenerte mucho en este primer post, por lo que voy a resumir un poco mis hobbies. Ya he hablado de la escritura y la tecnología, pues seguimos con el ajedrez, cine, viaje, fotografía, lectura, en fin, supongo que gustos de una persona normal, de esas que te encuentras en [Twitter](https://twitter.com/gomezramon_). 
 
-Bueno, en verdad para mí sí lo es. Me parece una gran idea escribir sobre lo que quiera, cuando quiera, en un sitio sin censura. Aprender a expresarme, en fin, creo que puede ser muy positivo.
+Por otro lado soy un inquieto tecnológico, bueno, inquieto en general. Me gusta estar todo el día con la mente ocupada, por lo que siempre ando con algún proyecto o aprendiendo cosas nuevas. Comencé en el mundo blogger en 2012, creando un glog de videojuegos llamado AS Geeks, lo único que queda de ello son recuerdos y su cuenta de [Twitter](https://twitter.com/AS_Geeks). En el mundo de la programación hace solo unos años, pero desde entonces he aprendido a programar en Android, Java y JavaScript, y entre medias he participado en un libro que se escribió de relatos de programadores. Y actualmente estoy creando un proyecto para montaje y reparación de PCs, y opositando en mis ratos libres. Ya daré detalles de todo porque no son pocas cosas, pero yo creo que como primera toma de contacto hay más que suficiente. 
 
-Aunque parezca que este primer post va bastante fluido, rellenar un blog es un gran reto. Y es que lo difícil a la hora de escribir o rellenar un blog es no leer y releer lo que escribes y modificarlo 500 veces hasta pensar que está perfecto, ya que nunca estará perfecto. Por lo que esta vez intentaré tomármelo con calma y escribir sin presión, aún sabiendo que mínimo leeré un par de veces cada post.
+Espero que no te haya hecho largo y si has llegado hasta aquí, gracias.
 
-No voy a decir que voy a escribir una, dos o cinco veces por semana, porque no será así. Escribiré cuando me venga la inspiración, sin metas ni estrategias. Tampoco voy a dar clases a nadie, cuando comparta recursos será a modo de ayuda, daré opiniones libres, y aceptaré comentarios y opiniones de los demás, feedback 4ever. 
-
-Y para finalizar con el tema del blog, está desarrollado con Gatsby, pero... ¿por qué no lo has programado de principio a fin? Porque hay que aprovechar recursos, no tenemos que hacerlo todo nosotras.
-
-## Hablemos de mí
-
-Soy bastante nerd, freak o como quieras llamarme. Mis hobbies son la tecnología, el cine, viajar y la fotografía, el ajedrez, y más cosillas. Lo digo para que te hagas una idea de lo que leerás por aquí ya que tengo gustos muy ecléticos.
-
-Programo, o eso intento, en fin, pico código cada vez que puedo. Estoy en continuo aprendizaje y desarrollo guías propias que es posible que vaya publicando por aquí de vez en cuando. Actualmente estoy metido en el mundo del Front-End, por lo que durante una larga temporada seguiré especializándome en ello. 
-
-Creo que hay suficiente información para que te hagas una idea de si quieres seguir leyéndome por aquí o no. Si quieres contactar conmigo puedes escribirme un [mail](ramongomez.rgc@gmail.com), un DM en [Twitter](https://twitter.com/7omez) o encontrarme en [Instagram](https:instagram.com/gomezramon_).
-
-¡Nos leemos pronto! O eso espero... 
-
-👾 👾 👾
+¡Nos leemos pronto! O eso espero... 👾 👾 👾
