@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: Ramón Gómez
-tagline: Developer
+tagline: Inquieto tecnológico
 featuredImage: /assets/profile.jpg
 cta:
-  ctaText: Know more
+  ctaText: Conóceme...
   ctaLink: /about
 ---
-Welcome to my personal website, my name is Ramón and I am a developer and a nerd in equal parts. You want to know more?
+Bienvenida o bienvenido a mi sitio web personal. Mi nombre es Ramón Gómez y soy un inquieto tecnológico de los 80' adaptado a la vida moderna. ¿Quieres conocerme un poco más?
