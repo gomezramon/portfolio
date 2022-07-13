@@ -6,7 +6,7 @@ import { Link } from "gatsby"
 
 const Logo = props => (
   <div className="site-logo">
-    <Link to="/">Gómez Notes</Link>
+    <Link to="/">Stranger blog</Link>
   </div>
 )
 
