@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: Hablemos de Ajedrez
+title: Stranger Things
 slug: /hablemos-de-ajedrez
 date: 2021-02-24T00:00:00.000Z
 description: En este artículo te enseño el camino para iniciarte en el ajedrez
-featuredImage: /assets/blog/chess.jpg
+featuredImage: /assets/blog/stranger-things-4.webp
 ---
 El ajedrez ha pasado de ser un deporte que a priori pasaba un poco desapercibido, a convertirse en uno de los deportes más vistos en streaming y a ocupar un gran espacio en prensa y radio. Ya sea por el empujón que recibió con la serie 'Gambigo de dama', o por la visibilidad de streamers de renombre, el ajedrez vive un boom que yo no podía imaginar.
 

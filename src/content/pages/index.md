@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Stranger blog
-tagline: Un sitio más, extraño
+tagline: Un blog de Ramón Gómez
 featuredImage: /assets/profile.jpg
 cta:
   ctaText: Conóceme...
