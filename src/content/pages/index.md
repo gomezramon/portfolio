@@ -8,4 +8,4 @@ cta:
   ctaText: Conóceme...
   ctaLink: /about
 ---
-Bienvenida o bienvenido a este maravillos y extraño blo. Mi nombre es Ramón Gómez y soy un inquieto de los 80' adaptado a la vida moderna. ¿Quieres conocerme un poco más?
+¡Hey, bienvenidos a mi maravillo y extraño blog. Mi nombre es Ramón Gómez y soy un inquieto de los 80' adaptado a la vida moderna. ¿Quieres conocerme un poco más?
