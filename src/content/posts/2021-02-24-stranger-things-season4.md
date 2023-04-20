@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Stranger Things
+title: Test de última hora
 slug: /hablemos-de-ajedrez
 date: 2021-02-24T00:00:00.000Z
 description: En este artículo te enseño el camino para iniciarte en el ajedrez
